@@ -1,6 +1,6 @@
-## Hi, I'm Charles from Counterspell Limited
+## Hi, I'm Charles from Yoti
 
-I'm a Mobile Tech Lead with more than 10 years of experience.
+I'm a iOS Dev/Lead with more than 10 years of experience.
 
 ## Previous Experience
 
@@ -19,5 +19,3 @@ I'm a Mobile Tech Lead with more than 10 years of experience.
 ## Contacts
 
 [LinkedIn](https://www.linkedin.com/in/charlesvu/)
-
-Email: charles _at_ counterspelllimited.co.uk
