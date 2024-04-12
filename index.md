@@ -1,4 +1,4 @@
-## Hi, I'm Charles from Yoti
+## Hi, I'm Charles
 
 I'm a iOS Dev/Lead with more than 10 years of experience.
 
@@ -9,8 +9,9 @@ I'm a iOS Dev/Lead with more than 10 years of experience.
 - Team Lead at [Drest](https://drest.com/)
 - iOS Chapter Lead at [Yoti](https://www.yoti.com/)
 - Former Contributor for a [Localization Plugin for Sketch](https://blog.usejournal.com/localisation-made-simple-e479b4e98434)
-- 
+
 ## Personal projects
+- Native Home Assistant Dashboard
 - Various Discord bots (Javascript)
 - E-Ink HUD to display Calendar events (Previously on Swift, now using JS, Python, Docker)
 ![Image of E-Ink Display](https://github.com/CharlesVu/charlesvu.github.io/blob/main/magic_mirror.jpg?raw=true)
